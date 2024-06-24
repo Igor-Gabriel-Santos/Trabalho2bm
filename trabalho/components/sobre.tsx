@@ -35,13 +35,13 @@ const styles = StyleSheet.create({
     },
     quadrado: {
         width: 900, 
-        height: 70,
+        height: 90,
         backgroundColor: '#3657CC',
         marginTop: -400
     },
     quadrado2: {
         width: 900, 
-        height: 70,
+        height: 90,
         backgroundColor: '#3657CC',
         marginTop: 170,
         marginBottom: -400,
